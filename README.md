@@ -8,7 +8,7 @@
 
 ### Glad to see you here!
 
-I am a self-motivated student pursuing a CS master's degree🎓. Have an experience in the fields of Web Development, Database Handling, and Visualization👨. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I am a self-motivated student pursuing a CS master's degree🎓. I have 3+ years of experience in Web Development, Database Handling, and Visualization👨. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
 ### More about me...
