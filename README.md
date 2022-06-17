@@ -13,11 +13,12 @@ I am a self-motivated student pursuing a CS master's degree🎓. I have 3+ years
 
 ### More about me...
 
-- 🔭 I’m currently working on MERN stack, Springboot, Next.js, TypeScript, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving MERN Stack or Springboot.
+- Good knowledge of Core Java concepts such as OOP Concepts, Collections Framework, Exception Handling, and Multi-Threading.
+- Hands-on experience in the design of J2EE architecture Web Applications, using technologies such as Java, Spring MVC, Hibernate, JSP, JDBC, and Servlets.
+- Strong experience with developing lightweight business components and integrated applications using Spring Framework, Spring MVC using features like IOC, and configuring application context for spring bean factory.
+- Good knowledge about using HTML 5, CSS 3, and JavaScript.
+- A self-motivated professional and natural communicator possessing good technical, initiating, leadership, and problem-solving skills and has proven to be a good team player.
 - 📫 How to reach me: wangrainm@gmail.com | [LinkedIn](https://www.linkedin.com/in/miaoyuwang/) | [Portfolio](https://miaoyu.vercel.app/)
-- 💻 I have worked on Java, Python, HTML/CSS, Javascript, MERN stack, Springboot, Next.js, TypeScript, AWS, Nginx, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Hire [me](mailto:wangrainm@gmail.com) 👨‍💻.
 
