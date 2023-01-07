@@ -17,7 +17,7 @@ I am a self-motivated student pursuing a CS master's degree🎓. I have 3+ years
 - Strong experience with developing lightweight business components and integrated applications using Spring Framework, Spring MVC using features like IOC, and configuring application context for spring bean factory.
 - Good knowledge about using HTML 5, CSS 3, and JavaScript.
 - A self-motivated professional and natural communicator possessing good technical, initiating, leadership, and problem-solving skills and has proven to be a good team player.
-- 📫 How to reach me: wangrainm@gmail.com | [LinkedIn](https://www.linkedin.com/in/miaoyuwang/) | [Portfolio](https://miaoyu.vercel.app/) | [Blog](https://mrainw.github.io/)
+- 📫 How to reach me: wangrainm@gmail.com | [Blog](https://mrainw.github.io/)
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Hire [me](mailto:wangrainm@gmail.com) 👨‍💻.
 
